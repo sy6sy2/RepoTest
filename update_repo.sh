@@ -1,16 +1,19 @@
 #!/usr/bin/env bash
 
+# This script will scan all *.deb files in the deb folder add generate Packages.* files
 
-# You should first put desired deb files in the deb folder
+# YOU NEED TO ADJUST THE ROOT_FOLDER VAR TO THE PATH OF THE "ios" FOLDER (the one displayed at http://mirrors.kodi.tv/apt/ios/)
+ROOT_FOLDER="."
+
+# Move at the repo root
+cd ${ROOT_FOLDER}
 
 # Clean old files
-rm ${REPO_ROOT}Packages
-rm ${REPO_ROOT}Packages.gz
-rm ${REPO_ROOT}Packages.bz2
-rm ${REPO_ROOT}Packages.xz
+rm Packages
+rm Packages.*
 
 # Generate Packages file
-dpkg-scanpackages -m . /dev/null > Packages
+dpkg-scanpackages -m ./deb /dev/null > Packages
 
 # Generate Packages.* comppressed files
 gzip -c9 Packages > Packages.gz
