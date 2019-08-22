@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: Memphiz
 Installed-Size: 138976
 Depends: firmware (>= 5.1)
-Filename: ../deb/org.xbmc.kodi-ios_17.6-0_iphoneos-arm.deb
+Filename: ./deb/org.xbmc.kodi-ios_17.6-0_iphoneos-arm.deb
 Size: 47968596
 MD5sum: 0805fddc67505382c22ff369e983a5bb
 SHA1: 611006a5f20e7af40f852ad82f4ab00d4ef1cd94
@@ -23,7 +23,7 @@ Architecture: iphoneos-arm
 Maintainer: Memphiz
 Installed-Size: 172168
 Depends: firmware (>= 5.1)
-Filename: ../deb/org.xbmc.kodi-ios_18.0-0_iphoneos-arm.deb
+Filename: ./deb/org.xbmc.kodi-ios_18.0-0_iphoneos-arm.deb
 Size: 58444564
 MD5sum: 175bfb085e20b065a0976778a08cfab1
 SHA1: 13f028ea68f728da16fdba239972f32a486e8c8f
@@ -42,7 +42,7 @@ Architecture: iphoneos-arm
 Maintainer: Memphiz
 Installed-Size: 172680
 Depends: firmware (>= 5.1)
-Filename: ../deb/org.xbmc.kodi-ios_18.1-0_iphoneos-arm.deb
+Filename: ./deb/org.xbmc.kodi-ios_18.1-0_iphoneos-arm.deb
 Size: 58539604
 MD5sum: 4d58197cddc65c95739dd0f01b221a07
 SHA1: 8c80840c18f8af84e0658365b53176af0a9eb6d0
@@ -61,7 +61,7 @@ Architecture: iphoneos-arm
 Maintainer: Memphiz
 Installed-Size: 174124
 Depends: firmware (>= 9.0)
-Filename: ../deb/org.xbmc.kodi-ios_18.2-0_iphoneos-arm.deb
+Filename: ./deb/org.xbmc.kodi-ios_18.2-0_iphoneos-arm.deb
 Size: 59110076
 MD5sum: d9f8f9501ace755fa1ee9fb5e9c910ac
 SHA1: 3d45bca66a1294c44d8bb19a903190debc4381f8
@@ -80,7 +80,7 @@ Architecture: iphoneos-arm
 Maintainer: Memphiz
 Installed-Size: 174996
 Depends: firmware (>= 9.0)
-Filename: ../deb/org.xbmc.kodi-ios_18.3-0_iphoneos-arm.deb
+Filename: ./deb/org.xbmc.kodi-ios_18.3-0_iphoneos-arm.deb
 Size: 59116420
 MD5sum: 586b51759a81707824fd22e44ba4fd89
 SHA1: 4a52f2812d1bc913a8899e9214a63bef20db0027
@@ -102,7 +102,7 @@ Pre-Depends: cy+cpu.arm64
 Depends: firmware (>= 7.0)
 Conflicts: org.xbmc.kodi-ios
 Replaces: org.xbmc.kodi-ios
-Filename: ../deb/org.xbmc.kodi-ios_17.6-0_iphoneos-arm64.deb
+Filename: ./deb/org.xbmc.kodi-ios_17.6-0_iphoneos-arm64.deb
 Size: 45562254
 MD5sum: 7b01ab7f59293b19ad6ec5f1f80d07d3
 SHA1: a8b6802cd7df51246ed29865be819b8fffa1dd5d
@@ -124,7 +124,7 @@ Pre-Depends: cy+cpu.arm64
 Depends: firmware (>= 7.0)
 Conflicts: org.xbmc.kodi-ios
 Replaces: org.xbmc.kodi-ios
-Filename: ../deb/org.xbmc.kodi-ios_18.0-0_iphoneos-arm64.deb
+Filename: ./deb/org.xbmc.kodi-ios_18.0-0_iphoneos-arm64.deb
 Size: 55040532
 MD5sum: 9e4daa17d3e4c69b1361cec4e74bfa65
 SHA1: f3dd09922dff7e7aa9a8eb31531db5db58a6cf62
@@ -146,7 +146,7 @@ Pre-Depends: cy+cpu.arm64
 Depends: firmware (>= 7.0)
 Conflicts: org.xbmc.kodi-ios
 Replaces: org.xbmc.kodi-ios
-Filename: ../deb/org.xbmc.kodi-ios_18.1-0_iphoneos-arm64.deb
+Filename: ./deb/org.xbmc.kodi-ios_18.1-0_iphoneos-arm64.deb
 Size: 55119368
 MD5sum: 68880cb600118cba1a8baf90d3594029
 SHA1: 9915964021e7d31ce34d7842ad1246bf373e124e
@@ -168,7 +168,7 @@ Pre-Depends: cy+cpu.arm64
 Depends: firmware (>= 9.0)
 Conflicts: org.xbmc.kodi-ios
 Replaces: org.xbmc.kodi-ios
-Filename: ../deb/org.xbmc.kodi-ios_18.2-0_iphoneos-arm64.deb
+Filename: ./deb/org.xbmc.kodi-ios_18.2-0_iphoneos-arm64.deb
 Size: 56013800
 MD5sum: 8a06ba8e40315d2dd354c14a91c18394
 SHA1: a09cf1e2ca51e3f278af7c8f98e379ee44ce6abf
@@ -190,7 +190,7 @@ Pre-Depends: cy+cpu.arm64
 Depends: firmware (>= 9.0)
 Conflicts: org.xbmc.kodi-ios
 Replaces: org.xbmc.kodi-ios
-Filename: ../deb/org.xbmc.kodi-ios_18.3-0_iphoneos-arm64.deb
+Filename: ./deb/org.xbmc.kodi-ios_18.3-0_iphoneos-arm64.deb
 Size: 56153240
 MD5sum: 26555d31828ea1ec9717fcd65f77b775
 SHA1: 7f6b22eec4fbab61ead377d879d29208e496e2eb

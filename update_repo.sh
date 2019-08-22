@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # You need to adapt these variables
-REPO_ROOT="../"
+REPO_ROOT="./"
 
 # You should first put desired deb files in the deb folder
 
