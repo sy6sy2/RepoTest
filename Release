@@ -1,8 +1,8 @@
-Origin: team Kodi
-Label: team Kodi
-Suite: stable
+Origin: team Kodi test
+Label: team Kodi test
+Suite: stable test
 Version: 1.0
-Codename: Kodi
+Codename: Kodi test
 Architectures: iphoneos-arm
 Components: main
 Description: The Official team Kodi Repository!
